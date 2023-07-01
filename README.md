@@ -1,4 +1,4 @@
-# Mini_projects1
+# Mini_project1
 
 Features                Description
 
